@@ -1,5 +1,5 @@
 # Album-Collection
-This app was made in Visual Studio using WPF. It also uses Entity Framework to connect to the database (in my case MSSQL). Query for the database is located in 'SQLQuery.sql' file and it's model looks like this:
+This app was made in Visual Studio using WPF. It also uses Entity Framework to connect to the database (in my case MSSQL). Query for the database is located in 'SQLQuery.sql' file and the model looks like this:
 
 ![Model](Model.png)
 
